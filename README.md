@@ -55,8 +55,20 @@ Coppy the Server folder and Asseets.zip to your destination server folder.
  
  See QUCIKSTART.md inside the archive.
  
- You can download it at : https://downloader.hytale.com/hytale-downloader.zi
+ You can download it at : https://downloader.hytale.com/hytale-downloader.zip
+# ARM64 Hyale Downloader CLI
+  if you are trying to run it on a ARM64 system they are no CLI versions for it at this moment.
+ One way I found to get around it us using an emulator called qemu-user
 
+to install the emulator use
+```bash
+sudo apt install qemu-user-static
+```
+Then just use the command 
+```bash
+./hytale-downloader-linux-amd64
+```
+To download the latest release
  ---
 
  Command-Description

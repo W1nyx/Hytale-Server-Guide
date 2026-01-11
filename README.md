@@ -57,7 +57,7 @@ Coppy the Server folder and Asseets.zip to your destination server folder.
  
  You can download it at : https://downloader.hytale.com/hytale-downloader.zip
 # ARM64 Hyale Downloader CLI
-  if you are trying to run it on a ARM64 system they are no CLI versions for it at this moment.
+  if you are trying to run it on a ARM64 system there are no CLI versions for it at this moment.
  One way I found to get around it us using an emulator called qemu-user
 
 to install the emulator use

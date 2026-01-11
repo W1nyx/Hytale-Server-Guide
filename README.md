@@ -69,6 +69,7 @@ Then just use the command
 ./hytale-downloader-linux-amd64
 ```
 To download the latest release
+
  ---
 
  Command-Description

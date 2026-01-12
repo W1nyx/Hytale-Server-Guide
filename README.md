@@ -129,10 +129,10 @@ java -jar HytaleServer.jar --assets PathToAssets.zip --bind 0.0.0.0:25565
 # Firewall & Network Config
 Hytale uses UDP not TCP. COnfigure your firewall and port fowarding accordingly (Look up how to do port fowarding if confused)
 
-#Port Fowarding
+# Port Fowarding
 If hosting behind a router, forward UDP port 5520 (or your custom port) to your server machine. TCP forwarding is not required.
 
-#Firewall Rules
+# Firewall Rules
 
 Windows Defnder Firewall:
 ```bash
